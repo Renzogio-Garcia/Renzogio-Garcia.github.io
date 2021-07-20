@@ -1,7 +1,6 @@
+source `https://rubygems.org`
+gem `github-pages`
 =begin
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins 
-=end
 
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -38,3 +37,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+=end
